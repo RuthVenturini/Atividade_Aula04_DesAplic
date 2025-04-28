@@ -11,7 +11,7 @@ Disciplina: Desenvolvimento de Aplicações Geoespaciais
 Aluna: Ruth Venturini Mariani
 """
 
-!pip install -q streamlit
+!pip install streamlit
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
