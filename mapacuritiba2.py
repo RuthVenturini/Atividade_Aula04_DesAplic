@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1bedacUlMNdsDj1rdobA14vtCkuVsnZ3G
 """
 
+!pip install folium
 
 import streamlit as st
 import folium
